@@ -1,0 +1,11 @@
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/bin/Release/netcoreapp3.1/TaskG.deps.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/bin/Release/netcoreapp3.1/TaskG.runtimeconfig.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/bin/Release/netcoreapp3.1/TaskG.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/bin/Release/netcoreapp3.1/TaskG.dll
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/bin/Release/netcoreapp3.1/TaskG.pdb
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.dll
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.pdb
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskG/obj/Release/netcoreapp3.1/TaskG.genruntimeconfig.cache

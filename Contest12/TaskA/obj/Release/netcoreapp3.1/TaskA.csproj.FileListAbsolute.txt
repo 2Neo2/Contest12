@@ -1,0 +1,12 @@
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/bin/Release/netcoreapp3.1/TaskA.deps.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/bin/Release/netcoreapp3.1/TaskA.runtimeconfig.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/bin/Release/netcoreapp3.1/TaskA.runtimeconfig.dev.json
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/bin/Release/netcoreapp3.1/TaskA.dll
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/bin/Release/netcoreapp3.1/TaskA.pdb
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.csprojAssemblyReference.cache
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.AssemblyInfoInputs.cache
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.AssemblyInfo.cs
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.csproj.CoreCompileInputs.cache
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.dll
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.pdb
+/Users/ivandoronin/Desktop/University/Programming/Contest12/Contest12/TaskA/obj/Release/netcoreapp3.1/TaskA.genruntimeconfig.cache
